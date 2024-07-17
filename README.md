@@ -14,7 +14,7 @@ This project is a basic calculator implemented using HTML and CSS.
 
 1. **Clone the repository**:
    ```bash
-   https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-1
+   https://github.com/kushkoshti22/Summer-Internship/tree/main/Summer-Internship/task-1
 
 # Week-2 Myntra Clone
 
@@ -33,7 +33,7 @@ This project is a clone of the Myntra website, implemented using HTML and CSS fo
 
 1. **Clone the repository**:
    ```bash
-   https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-2
+   https://github.com/kushkoshti22/Summer-Internship/tree/main/Summer-Internship/task-2
 
 # Week-3 To-Do List
 
@@ -50,7 +50,7 @@ This project is a simple To-Do List application implemented using HTML, CSS, and
 
 1. **Clone the repository**:
    ```bash
-   https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-3
+   https://github.com/kushkoshti22/Summer-Internship/tree/main/Summer-Internship/task-3
 
 # Week-4 Connect-4 Game
 This project is a browser-based implementation of the classic Connect-4 game using HTML, CSS, and JavaScript. Connect-4 is a two-player connection game in which the players take turns dropping colored discs from the top into a vertically suspended grid. The objective of the game is to connect four of one's own discs vertically, horizontally, or diagonally before the opponent.
@@ -66,4 +66,4 @@ This project is a browser-based implementation of the classic Connect-4 game usi
 
 1. **Clone the repository**:
    ```bash
-   https://github.com/dhwanil05/summer-Internship/tree/main/Summer-Internship/task-4
+   https://github.com/kushkoshti22/Summer-Internship/tree/main/Summer-Internship/task-4
